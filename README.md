@@ -18,20 +18,19 @@ This challenge is a collaberation of Node.js and object oriented programming. Wo
 
 In order for the HTML page to generate via command line interface, the following npm packages were required to intall in my local machine:
 
---* inquirer
---* inquirer-loop
+- inquirer
+- inquirer-loop
 
 Refer to docs for more information about these packages [here](https://www.npmjs.com/package/inquirer)
 
 ## Usage
 
---* This is how the terminal show look like after you have answered all the questions.
+- This is how the terminal show look like after you have answered all the questions.
 ![index js - Oscars-employees-challenge-take-1 - Visual Studio Code 11_1_2022 12_43_59 AM](https://user-images.githubusercontent.com/112797175/199402079-52e03f3c-8022-4ced-8a68-13b023e535aa.png)
 
 
---* After you answer "n" for no which will stop the questions from being asked, an object containing the managers properties will appear followed by an array of objects with the rest of the team members.
-[Untitled_ Nov 1 2022 10_14 PM.webm](https://user-images.githubusercontent.com/112797175/199402251-453f725f-8b7f-44fc-94f8-da03769545cd.webm)
-
+- After you answer "n" for no which will stop the questions from being asked, an object containing the managers properties will appear followed by an array of objects with the rest of the team members.
+[Untitled_ Nov 1 2022 10_14 PM.webm](https://user-images.githubusercontent.com/112797175/199402742-f5de2a70-ca09-451c-835a-e792b91fcdf0.webm)
 
 ## Credits
 
@@ -42,7 +41,7 @@ Tutor session
 ## License
 
 Mit license 
-https://img.shields.io/badge/License-MIT-brightgreen
+![badmath](https://img.shields.io/badge/License-MIT-brightgreen)
 
 ## Badges
 
