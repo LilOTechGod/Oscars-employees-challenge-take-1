@@ -1,5 +1,5 @@
 # Oscars-employees-challenge-take-1
-### Challenge 12 for UT-Austin, TX Full stack web development bootcamp
+### Challenge 10 for UT-Austin, TX Full stack web development bootcamp
 
 ## Description
 
